@@ -15,7 +15,7 @@ A **realtime collaborative code editor** built with **React, Node.js, Express, a
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Socket.IO Client, CodeMirror / Monaco Editor 
+- **Frontend:** React, Socket.IO Client, CodeMirror Editor 
 
 - **Backend:** Node.js, Express, Socket.IO  
 - **Other:** dotenv for environment management  
